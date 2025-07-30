@@ -58,12 +58,12 @@ This project helped me strengthen my skills in:
 ---
 
 ## 🚀 Launch Dashboard  
-[🔗 Click here to view the live Streamlit app ](#http://localhost:8501)  
+[🔗 http://localhost:8501  ]  
 
 
 ---
 ##📷 Sample Visualizations
-![image_alt]()
+![image_alt](https://github.com/Krishna-0286/GooglePlayStore_app_data_analysis/blob/2d93a7e423bd754a16134e66a6940395e49450ef/Screenshot%202025-07-30%20171650.png)
 
 🤝 Credits
 Dataset from Kaggle
