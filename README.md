@@ -58,7 +58,7 @@ This project helped me strengthen my skills in:
 ---
 
 ## 🚀 Launch Dashboard  
-![🔗 http://localhost:8501  ](http://localhost:8501)
+[🔗Click here to view the live Streamlit app ](http://localhost:8501)
 
 
 ---
