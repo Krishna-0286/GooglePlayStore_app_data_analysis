@@ -1,12 +1,12 @@
 
-📱 Google Play Store App Data Analysis (Streamlit Dashboard)
+##📱 Google Play Store App Data Analysis (Streamlit Dashboard)
 Welcome to the Google Play Store App Data Analysis project!
 This project dives deep into the app trends, categories, installs, ratings, and user behavior using the Google Play Store dataset. The interactive analysis is done with Streamlit, and visualizations are crafted using Matplotlib and Seaborn.
 
-🔍 Project Overview
+##🔍 Project Overview
 This project aims to analyze various characteristics of Google Play Store apps to derive meaningful business insights for developers, marketers, and app designers.
 
-Objectives:
+##Objectives:
 
 Identify top categories based on installs and ratings.
 
@@ -16,7 +16,7 @@ Explore factors influencing app popularity.
 
 Create an interactive EDA web app using Streamlit.
 
-📦 Dataset Information
+##📦 Dataset Information
 Feature Name	Description
 App	Name of the app
 Category	App category
@@ -32,7 +32,7 @@ Last Updated	Last update date
 Current Ver	Current version
 Android Ver	Minimum Android version required
 
-🛠️ Tools & Technologies Used
+##🛠️ Tools & Technologies Used
 Python (Pandas, NumPy) – Data Cleaning & Processing
 
 Matplotlib, Seaborn – Data Visualization
@@ -41,7 +41,7 @@ Streamlit – Building the EDA Web App
 
 GitHub Pages – Project Hosting
 
-⚙️ Data Cleaning Steps
+##⚙️ Data Cleaning Steps
 Converted size into numerical values (KB/MB handling)
 
 Removed duplicates and invalid entries
@@ -52,7 +52,7 @@ Handled inconsistent formats in columns like Installs, Price, and Android Ver
 
 Converted categorical data for visualization
 
-📊 Key Visualizations
+##📊 Key Visualizations
 📊 Top 10 Categories by App Count
 
 🔥 Top Categories by Total Installs (Billions)
@@ -67,7 +67,7 @@ Converted categorical data for visualization
 
 📦 Interactive filters for categories and content rating
 
-🚀 Streamlit App Features
+##🚀 Streamlit App Features
 Sidebar filters (Category, Content Rating, Type)
 
 Interactive Bar Charts, Pie Charts, and KDE plots
@@ -76,11 +76,11 @@ Responsive layout with custom styling
 
 Clean navigation and modern UI
 
-👉 Launch Streamlit App (Add your deployed link here, e.g., Streamlit Share or GitHub Pages)
+##👉 Launch Streamlit App (Add your deployed link here, e.g., Streamlit Share or GitHub Pages)
  
  
     
-📷 Sample Visualizations
+##📷 Sample Visualizations
 ![image_alt]()
 
 🤝 Credits
